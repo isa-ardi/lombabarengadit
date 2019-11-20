@@ -1,375 +1,1374 @@
-<?php include 'templates/header.php'; ?>
+<div id="section3"></div><div class="container-fluid bg-dark">
+<div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+      <!--================ Pricing section start =================-->
+  <section class="section-margin">
+      <div class="container">
+        <div id="n" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>cold detection</h4>
+                      <p>Attend only first day</p>
+                      <h1 class="card-pricing__price"><span>$</span>50.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal1">Selengkapnya...</button>
+                    </div>
+                  </div>
+                </div>
 
-  <main class="side-main">
-    <!--================ Hero sm Banner start =================-->      
-    
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <section class="hero-banner mb-30px d-block w-100" style="background: black;">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-7">
-                  <div class="hero-banner__img">
-                    <img class="img-fluid" src="img/banner/hero-banner.png" alt="">
+		            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>human detection</h4>
+                      <p>Attend only first day</p>
+                      <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal2">Selengkapnya...</button>
+                    </div>
                   </div>
                 </div>
-                <div class="col-lg-5 pt-5">
-                  <div class="hero-banner__content">
-                    <h1>Advanced software made simple</h1>
-                    <p>Vel aliquam quis, nulla pede mi commodo tristique nam hac Luctun torquent velit felis commodo pellentesque nulla cras vel aliqua quisan nulla pede mi commoda</p>
-                    <a class="button bg" href="#">Get Started</a>
+
+		            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>drugs detection</h4>
+                      <p>Attend only first day</p>
+                      <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal3">Selengkapnya...</button>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </section>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>user drug detection</h4>
+                      <p>Attend only first day</p>
+                      <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal4">Selengkapnya...</button>
+                    </div>
+                  </div>
+                </div>
+
+		            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>AeroBot A74A</h4>
+                      <p>smart glass</p>
+                      <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal5">Selengkapnya...</button>
+                    </div>
+                  </div>
+                </div>
+
+		            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                  <div class="card text-center card-pricing">
+                    <div class="card-pricing__header">
+                      <h4>smart helmet</h4>
+                      <p>Attend only first day</p>
+                      <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+                    </div>
+                    <ul class="card-pricing__list">
+                      <li><i class="ti-check"></i>Unlimited Entrance</li>
+                      <li><i class="ti-check"></i>Comfortable Seat</li>
+                      <li><i class="ti-check"></i>Paid Certificate</li>
+                      <li><i class="ti-check"></i>Day One Workshop</li>
+                      <li><i class="ti-check"></i>One Certificate</li>
+                    </ul>
+                    <div class="card-pricing__footer">
+                      <button type="button" class="button button-light" data-toggle="modal" data-target="#modal6">Selengkapnya...</button>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          
+          </div>
         </div>
-        <div class="carousel-item">
-          <section class="hero-banner mb-30px d-block w-100" style="background: black;">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-7">
-                  <div class="hero-banner__img">
-                    <img class="img-fluid" src="img/banner/hero-banner.png" alt="">
-                  </div>
+        
+      </div>
+      
+      
+          <a class="carousel-control-prev"  href="#carouselExampleControls1" role="button" data-slide="prev" style="border-radius:100%;height:50%;margin-top:15%;">
+            <span class="carousel-control-prev-icon"  aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls1" role="button" data-slide="next"style="border-radius:100%;height:50%;margin-top:15%;">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+  </section>
+  <!--s================ Pricing section end =================-->
+
+</div>
+   
+</div>
+
+</div>
+
+<!-- Modal 1 -->
+
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb1" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
                 </div>
-                <div class="col-lg-5 pt-5">
-                  <div class="hero-banner__content">
-                    <h1>Advanced software made simple</h1>
-                    <p>Vel aliquam quis, nulla pede mi commodo tristique nam hac Luctun torquent velit felis commodo pellentesque nulla cras vel aliqua quisan nulla pede mi commoda</p>
-                    <a class="button bg" href="#">Get Started</a>
-                  </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
                 </div>
               </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb1" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb1" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb1" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb1" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb1" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
             </div>
-          </section>
-        </div>
-        <div class="carousel-item">
-          <section class="hero-banner mb-30px d-block w-100" style="background: black;">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-7">
-                  <div class="hero-banner__img">
-                    <img class="img-fluid" src="img/banner/hero-banner.png" alt="">
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
+
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
                   </div>
                 </div>
-                <div class="col-lg-5 pt-5">
-                  <div class="hero-banner__content">
-                    <h1>Advanced software made simple</h1>
-                    <p>Vel aliquam quis, nulla pede mi commodo tristique nam hac Luctun torquent velit felis commodo pellentesque nulla cras vel aliqua quisan nulla pede mi commoda</p>
-                    <a class="button bg" href="#">Get Started</a>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
                   </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+            </div>
+            <!-- Accordion wrapper -->
+
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
                 </div>
               </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
+              </div>
             </div>
-          </section>
+            <!-- /.Add to Cart -->
+          </div>
         </div>
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
     </div>
+  </div>
+</div>
 
-    <!--================ Hero sm Banner end =================-->
+<!-- End Modal 1 -->
 
-    <!--================ Feature section start =================-->      
-    <section class="section-margin">
-      <div class="container">
-        <div class="section-intro pb-85px text-center">
-          <h2 class="section-intro__title">Awesome Soft Feature</h2>
-          <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi commodo tristique nam hac  luctus torquent</p>
-        </div>
+<!-- Modal2 -->
 
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4">
-              <div class="card card-feature text-center text-lg-left mb-4 mb-lg-0">
-                <span class="card-feature__icon">
-                  <i class="ti-package"></i>
-                </span>
-                <h3 class="card-feature__title">Unique Design</h3>
-                <p class="card-feature__subtitle">Molestie lorem est faucibus faucibus erat phasellus placerat proin aptent</p>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="card card-feature text-center text-lg-left mb-4 mb-lg-0">
-                <span class="card-feature__icon">
-                  <i class="ti-mouse-alt"></i>
-                </span>
-                <h3 class="card-feature__title">Business Solution</h3>
-                <p class="card-feature__subtitle">Molestie lorem est faucibus faucibus erat phasellus placerat proin aptent</p>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="card card-feature text-center text-lg-left mb-4 mb-lg-0">
-                <span class="card-feature__icon">
-                  <i class="ti-headphone-alt"></i>
-                </span>
-                <h3 class="card-feature__title">Customer Support</h3>
-                <p class="card-feature__subtitle">Molestie lorem est faucibus faucibus erat phasellus placerat proin aptent</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--================ Feature section end =================-->      
-    
-    <!--================ about section start =================-->      
-    <section class="section-padding--small bg-magnolia">
-      <div class="container">
-        <div class="row no-gutters align-items-center">
-          <div class="col-md-5 mb-5 mb-md-0">
-            <div class="about__content">
-              <h2>Pendeteksi penyakit</h2>
-              <p>alat pendeteksi penyakit ini bukan hanya dilakukan di suatu rumah sakit akan tetapi dapat dilakukan secara massal di daerah keramaian seperti di alun alun kota , dan tempat yang ramai lainnya</p>
-              <a class="button button-light" href="#">Know More</a>
-            </div>
-          </div>
-          <div class="col-md-7">
-            <div class="about__img">
-              <img class="img-fluid" src="img/home/about.png" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--================ about section end =================-->      
-    
-    <!--================ Offer section start =================-->      
-    <section class="section-margin">
-      <div class="container">
-        <div class="section-intro pb-85px text-center">
-          <h2 class="section-intro__title">Features We Offer</h2>
-          <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi commodo tristique nam hac  luctus torquent</p>
-        </div>
-
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
         <div class="row">
-          <div class="col-lg-6">
-
-            <div class="row offer-single-wrapper">
-              <div class="col-lg-6 offer-single">
-                <div class="card offer-single__content text-center">
-                  <span class="offer-single__icon">
-                    <i class="ti-pencil-alt"></i>
-                  </span>
-                  <h4>Easy To Manage</h4>
-                  <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb2" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
                 </div>
               </div>
-              
-              <div class="col-lg-6 offer-single">
-                <div class="card offer-single__content text-center">
-                  <span class="offer-single__icon">
-                    <i class="ti-ruler-pencil"></i>
-                  </span>
-                  <h4>Analytics Tool</h4>
-                  <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
-                </div>
-              </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb2" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb2" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb2" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb2" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb2" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
             </div>
-
-            <div class="row offer-single-wrapper">
-              <div class="col-lg-6 offer-single">
-                <div class="card offer-single__content text-center">
-                  <span class="offer-single__icon">
-                    <i class="ti-cut"></i>
-                  </span>
-                  <h4>Professionals Tools</h4>
-                  <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
-                </div>
-              </div>
-              
-              <div class="col-lg-6 offer-single">
-                <div class="card offer-single__content text-center">
-                  <span class="offer-single__icon">
-                    <i class="ti-light-bulb"></i>
-                  </span>
-                  <h4>Ready Content</h4>
-                  <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
-                </div>
-              </div>
-            </div>
-
+            <!--/.Carousel Wrapper-->
           </div>
-          <div class="col-lg-6">
-            <div class="offer-single__img">
-              <img class="img-fluid" src="img/home/offer.png" alt="">
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
+
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
             </div>
+            <!-- Accordion wrapper -->
+
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
+                </div>
+              </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
+              </div>
+            </div>
+            <!-- /.Add to Cart -->
           </div>
         </div>
       </div>
-    </section>
-    <!--================ Offer section end =================-->      
+    </div>
+  </div>
+</div>
 
-    <!--================ Solution section start =================-->      
-    <section class="section-padding--small bg-magnolia">
-      <div class="container">
-        <div class="row align-items-center pt-xl-3 pb-xl-5">
-          <div class="col-lg-6">
-            <div class="solution__img text-center text-lg-left mb-4 mb-lg-0">
-              <img class="img-fluid" src="img/home/solution.png" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="solution__content">
-              <h2>Simple Solutions for Complex Connections</h2>
-              <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat phasellus placerat proin aptent pulvinar fusce nostra port</p>
-              <a class="button button-light" href="#">Know More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--================ Solution section end =================-->      
+<!-- End Modal 2 -->
 
-    <!--================ Pricing section start =================-->      
-    <section class="section-margin">
-      <div class="container">
-        <div class="section-intro pb-85px text-center">
-          <h2 class="section-intro__title">Choose Your Plan</h2>
-          <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi commodo tristique nam hac  luctus torquent</p>
-        </div>
+<!-- Modal 3 -->
 
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
         <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card text-center card-pricing">
-              <div class="card-pricing__header">
-                <h4>Normal</h4>
-                <p>Attend only first day</p>
-                <h1 class="card-pricing__price"><span>$</span>45.00</h1>
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb3" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
+                </div>
               </div>
-              <ul class="card-pricing__list">
-                <li><i class="ti-check"></i>Unlimited Entrance</li>
-                <li><i class="ti-check"></i>Comfortable Seat</li>
-                <li><i class="ti-check"></i>Paid Certificate</li>
-                <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-                <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-              </ul>
-              <div class="card-pricing__footer">
-                <button class="button button-light">Buy Now</button>
-              </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb3" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb3" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb3" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb3" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb3" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
             </div>
+            <!--/.Carousel Wrapper-->
           </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
 
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card text-center card-pricing">
-              <div class="card-pricing__header">
-                <h4>Advanced</h4>
-                <p>Attend only first day</p>
-                <h1 class="card-pricing__price"><span>$</span>55.00</h1>
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
               </div>
-              <ul class="card-pricing__list">
-                <li><i class="ti-check"></i>Unlimited Entrance</li>
-                <li><i class="ti-check"></i>Comfortable Seat</li>
-                <li><i class="ti-check"></i>Paid Certificate</li>
-                <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-                <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-              </ul>
-              <div class="card-pricing__footer">
-                <button class="button button-light">Buy Now</button>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+            </div>
+            <!-- Accordion wrapper -->
+
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
+                </div>
+              </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
               </div>
             </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="card text-center card-pricing">
-              <div class="card-pricing__header">
-                <h4>Ultimate</h4>
-                <p>Attend only first day</p>
-                <h1 class="card-pricing__price"><span>$</span>65.00</h1>
-              </div>
-              <ul class="card-pricing__list">
-                <li><i class="ti-check"></i>Unlimited Entrance</li>
-                <li><i class="ti-check"></i>Comfortable Seat</li>
-                <li><i class="ti-check"></i>Paid Certificate</li>
-                <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-                <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-              </ul>
-              <div class="card-pricing__footer">
-                <button class="button button-light">Buy Now</button>
-              </div>
-            </div>
+            <!-- /.Add to Cart -->
           </div>
         </div>
       </div>
-    </section>
-    <!--================ Pricing section end =================-->      
+    </div>
+  </div>
+</div>
 
-    <!--================ Testimonial section start =================-->      
-    <section class="section-padding bg-magnolia">
-      <div class="container">
-        <div class="section-intro pb-5 text-center">
-          <h2 class="section-intro__title">Client Says Me</h2>
-          <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam </p>
-        </div>
+<!-- End Modal 3 -->
 
-        <div class="owl-carousel owl-theme testimonial">
-          <div class="testimonial__item text-center">
-            <div class="testimonial__img">
-              <img src="img/testimonial/testimonial1.png" alt="">
+<!-- Modal 4 -->
+
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb4" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
+                </div>
+              </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb4" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb4" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb4" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb4" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb4" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
             </div>
-            <div class="testimonial__content">
-              <h3>Stephen Mcmilan</h3>
-              <p>Executive, ACI Group</p>
-              <p class="testimonial__i">Also made from. Give may saying meat there from heaven it lights face had is gathered god earth light for life may itself shall whales made they're blessed whales also made from give may saying meat. There from heaven it lights face had also made from. Give may saying meat there from heaven</p>
-            </div>
+            <!--/.Carousel Wrapper-->
           </div>
-          <div class="testimonial__item text-center">
-            <div class="testimonial__img">
-              <img src="img/testimonial/testimonial1.png" alt="">
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
+
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
             </div>
-            <div class="testimonial__content">
-              <h3>Stephen Mcmilan</h3>
-              <p>Executive, ACI Group</p>
-              <p class="testimonial__i">Also made from. Give may saying meat there from heaven it lights face had is gathered god earth light for life may itself shall whales made they're blessed whales also made from give may saying meat. There from heaven it lights face had also made from. Give may saying meat there from heaven</p>
+            <!-- Accordion wrapper -->
+
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
+                </div>
+              </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
+              </div>
             </div>
-          </div>
-          <div class="testimonial__item text-center">
-            <div class="testimonial__img">
-              <img src="img/testimonial/testimonial1.png" alt="">
-            </div>
-            <div class="testimonial__content">
-              <h3>Stephen Mcmilan</h3>
-              <p>Executive, ACI Group</p>
-              <p class="testimonial__i">Also made from. Give may saying meat there from heaven it lights face had is gathered god earth light for life may itself shall whales made they're blessed whales also made from give may saying meat. There from heaven it lights face had also made from. Give may saying meat there from heaven</p>
-            </div>
+            <!-- /.Add to Cart -->
           </div>
         </div>
       </div>
-    </section>
-    <!--================ Testimonial section end =================-->      
+    </div>
+  </div>
+</div>
+
+<!-- End Modal 4 -->
+
+<!-- Modal 5 -->
+
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb5" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
+                </div>
+              </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb5" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb5" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb5" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb5" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb5" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
+
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+            </div>
+            <!-- Accordion wrapper -->
 
 
-    <!--================ Start Clients Logo Area =================-->
-    <section class="clients_logo_area section-padding">
-      <div class="container">
-        <div class="clients_slider owl-carousel">
-          <div class="item">
-            <img src="img/clients-logo/c-logo-1.png" alt="">
-          </div>
-          <div class="item">
-            <img src="img/clients-logo/c-logo-2.png" alt="">
-          </div>
-          <div class="item">
-            <img src="img/clients-logo/c-logo-3.png" alt="">
-          </div>
-          <div class="item">
-            <img src="img/clients-logo/c-logo-4.png" alt="">
-          </div>
-          <div class="item">
-            <img src="img/clients-logo/c-logo-5.png" alt="">
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
+                </div>
+              </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
+              </div>
+            </div>
+            <!-- /.Add to Cart -->
           </div>
         </div>
       </div>
-    </section>
-    <!--================ End Clients Logo Area =================-->
-  </main>
+    </div>
+  </div>
+</div>
 
-  <?php include 'templates/footer.php'; ?>
+<!-- End Modal 5 -->
+
+<!-- Modal 6 -->
+
+<!-- Modal: modalQuickView -->
+<div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-5">
+            <!--Carousel Wrapper-->
+            <div id="carousel-thumb6" class="carousel slide carousel-fade carousel-thumbnails"
+              data-ride="carousel">
+              <!--Slides-->
+              <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg"
+                    alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg"
+                    alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100"
+                    src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg"
+                    alt="Third slide">
+                </div>
+              </div>
+              <!--/.Slides-->
+              <!--Controls-->
+              <a class="carousel-control-prev" href="#carousel-thumb6" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel-thumb6" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+              <!--/.Controls-->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-thumb6" data-slide-to="0" class="active">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(23).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb6" data-slide-to="1">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(24).jpg" width="60">
+                </li>
+                <li data-target="#carousel-thumb6" data-slide-to="2">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(25).jpg" width="60">
+                </li>
+              </ol>
+            </div>
+            <!--/.Carousel Wrapper-->
+          </div>
+          <div class="col-lg-7">
+            <h2 class="h2-responsive product-name">
+              <strong>Product Name</strong>
+            </h2>
+            <h4 class="h4-responsive">
+              <span class="green-text">
+                <strong>$49</strong>
+              </span>
+              <span class="grey-text">
+                <small>
+                  <s>$89</s>
+                </small>
+              </span>
+            </h4>
+
+            <!--Accordion wrapper-->
+            <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingOne1">
+                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+                    aria-controls="collapseOne1">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #1 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingTwo2">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+                    aria-expanded="false" aria-controls="collapseTwo2">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #2 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+              <!-- Accordion card -->
+              <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingThree3">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+                    aria-expanded="false" aria-controls="collapseThree3">
+                    <h5 class="mb-0">
+                      Collapsible Group Item #3 <i class="fas fa-angle-down rotate-icon"></i>
+                    </h5>
+                  </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+                  data-parent="#accordionEx">
+                  <div class="card-body">
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                    squid. 3
+                    wolf moon officia aute,
+                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                  </div>
+                </div>
+
+              </div>
+              <!-- Accordion card -->
+
+            </div>
+            <!-- Accordion wrapper -->
+
+
+            <!-- Add to Cart -->
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">White</option>
+                    <option value="2">Black</option>
+                    <option value="3">Pink</option>
+                  </select>
+                  <label>Select color</label>
+
+                </div>
+                <div class="col-md-6">
+
+                  <select class="md-form mdb-select colorful-select dropdown-primary">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="1">XS</option>
+                    <option value="2">S</option>
+                    <option value="3">L</option>
+                  </select>
+                  <label>Select size</label>
+
+                </div>
+              </div>
+              <div class="text-center">
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button class="btn btn-primary">Add to cart
+                  <i class="fas fa-cart-plus ml-2" aria-hidden="true"></i>
+                </button>
+              </div>
+            </div>
+            <!-- /.Add to Cart -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- End Modal 6 -->
