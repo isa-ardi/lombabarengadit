@@ -1,0 +1,73 @@
+
+Uman Deteksion : AeroBot A74A
+AeroBot A74A adalah sebuah teknologi smart city yang diperuntukan untuk kepolisian dalam bidang keamanan pada saat malam hari di tempat tempat tertentu seperti 
+Gedung,Alun-Alun Kota,Dan Tempat Tempat Tertentu Lainya.Alat Ini Berfungsi Sebagai keberadaan manusia di tempat tempat umum pada saat malam hari.
+Misal di alun alun pada saat pukul 23:00 alat itu akan mulai berkerja jika ada seseorang pria terdeteksi oleh AeroBot A74A itu secara otomaatis alat itu akan merekam derak deriknya
+dan akan langsung dikirimkan kepada pihak yang berwenang .
+
+adapun yang akan dikirimkan kepada pihak berwenang adalah:
+1.identitas pria tersebut
+2.berapa jam pri tersebut berada di tempat itu melalui beberapa warna yang akan dikirimkan kepada pihak yang berwenang
+    Warna Hijau: 1-30 Menit
+	Warna Kuning : 30-60 Menit
+	Warna Merah  : 1-5 Jam
+	
+	Penanganan dari pihak kepolisian akan berbeda beda tergantung dari data yang dikirimkan
+	
+
+
+
+Napsa detektion : DrugZept ct39
+Alat ini adalah alat untuk mendeteksi narkoba. Alat ini berbentuk toilet. Jadi ketika seorang kencing di toilet ini alat ini akan langsung
+mendeteksi apakah urin orang tersebut positif narkoba atau negatif. Jika orang tersebut positif pengguna narkoba maka data tersebut akan 
+dikirim langsung ke BNN. Orang tersebut tidak akan langsung ditangkap tapi orang tersebut akan di pantau apakah orang tersebut juga pengedar.
+
+
+
+
+
+Kacamata Pintar : GS177
+Alat ini adalah kacamata yang bisa merubah lensanya untuk orang rabun jauh atau rabun dekat tanpa melepas lensa kacamatanya. Cara kerja alat
+yaitu ketika orang tersebut menderita rabun jauh maka kacamata tersebut akan merubah fungsi menjadi kacamata rabun jauh. Jika rabun dekat
+maka kacamata tersebut akan berubah menjadi kacamata rabun dekat. Kaca mata ini akan langsung terhubung dengan aplikasi android sehingga 
+kita juga bisa memantau keadaan mata kita apakah rabunnya menurun atau malah naik. Kacamata ini juga dilengkapi dengan akupuntur untuk 
+relaksasi mata yang capek.
+
+
+
+
+
+
+Helm Pintar : HT013
+Alat ini adalah helm yang bisa digunakan orang rabun sehingga orang rabun tersebut tidak harus menggunakan kacamata saat mengenakan helm.
+Karena Helm ini dilengkapi langsung dengan kacamata. Kacamata yang digunakan pun sama dengan Kacamata GS177 hanya saja tidak terdapat 
+akupuntur didalamnya. Helm ini juga dilengkapi dengan navigasi google map di HP. Sehingga ketika kita menggunakan helm ini dan kita telah 
+menandai tempat tujuan maka helm tersebut akan langsung menunjukkan arah menuju tempat yang ditandai.
+
+
+
+
+
+
+
+Sick Detection : SID201
+Alat ini mirip seperti body scanner yang ada di bandara. Alat ini ada di rumah sakit. Ketika orang tersebut ke rumah sakit orang tersebut 
+akan melewati lorong lorong dimana setiap lorong nya akan mendeteksi orang tersebut. Sehingga ketika orang tersebut berada di ruang dokter 
+dokter sudah tahu apa penyakit yang diderita orang tersebut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
